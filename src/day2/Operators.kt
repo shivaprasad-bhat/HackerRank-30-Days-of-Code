@@ -1,4 +1,4 @@
-package day3
+package day2
 
 /**
  * @author shivaprasad bhat
